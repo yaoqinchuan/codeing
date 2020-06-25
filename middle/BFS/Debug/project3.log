@@ -1,0 +1,4 @@
+﻿  project3.cpp
+C:\Users\yaoqinchuan\source\repos\codeing\middle\project3\project3.cpp(34,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\yaoqinchuan\source\repos\codeing\middle\project3\project3.cpp(14,8): warning C4101: “new_s”: 未引用的局部变量
+  project3.vcxproj -> C:\Users\yaoqinchuan\source\repos\codeing\middle\project3\Debug\project3.exe

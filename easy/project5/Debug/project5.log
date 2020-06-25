@@ -1,2 +1,4 @@
 ﻿  project5.cpp
+C:\Users\yaoqinchuan\source\repos\codeing\easy\project5\project5.cpp(45,11): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\yaoqinchuan\source\repos\codeing\easy\project5\project5.cpp(47,21): warning C4018: “<”: 有符号/无符号不匹配
   project5.vcxproj -> C:\Users\yaoqinchuan\source\repos\codeing\easy\project5\Debug\project5.exe
